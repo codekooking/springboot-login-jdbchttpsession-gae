@@ -1,0 +1,7 @@
+/src/main/resources/application.properties
+/src/main/webapp/WEB-INF/appengine-web.xml
+/src/main/webapp/WEB-INF/logging.properties
+/*.classpath
+/*.project
+/.settings
+/target
